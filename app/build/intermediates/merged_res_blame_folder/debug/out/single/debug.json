@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/mipmap-mdpi_icon_june_round.png.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/mipmap-mdpi/icon_june_round.png"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/mipmap-anydpi-v26_icon_june_round.xml.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/mipmap-anydpi-v26/icon_june_round.xml"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/mipmap-xxxhdpi_icon_june_foreground.png.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/mipmap-xxxhdpi/icon_june_foreground.png"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/mipmap-anydpi-v26_icon_june.xml.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/mipmap-anydpi-v26/icon_june.xml"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/mipmap-hdpi_icon_june_foreground.png.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/mipmap-hdpi/icon_june_foreground.png"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/mipmap-hdpi_icon_june_round.png.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/mipmap-hdpi/icon_june_round.png"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/mipmap-hdpi_icon_june.png.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/mipmap-hdpi/icon_june.png"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/mipmap-xhdpi_icon_june_foreground.png.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/mipmap-xhdpi/icon_june_foreground.png"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/drawable_flag.png.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/drawable/flag.png"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/drawable_logo.jpeg.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/drawable/logo.jpeg"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/mipmap-xxxhdpi_icon_june.png.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/mipmap-xxxhdpi/icon_june.png"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/mipmap-xxxhdpi_icon_june_round.png.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/mipmap-xxxhdpi/icon_june_round.png"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/mipmap-xhdpi_icon_june_round.png.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/mipmap-xhdpi/icon_june_round.png"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/mipmap-xhdpi_icon_june.png.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/mipmap-xhdpi/icon_june.png"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/drawable_icon_june_background.xml.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/drawable/icon_june_background.xml"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/mipmap-xxhdpi_icon_june_foreground.png.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/mipmap-xxhdpi/icon_june_foreground.png"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/mipmap-xxhdpi_icon_june_round.png.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/mipmap-xxhdpi/icon_june_round.png"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/drawable_instagram.jpeg.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/drawable/instagram.jpeg"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/drawable_twitter.jpeg.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/drawable/twitter.jpeg"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/mipmap-mdpi_icon_june.png.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/mipmap-mdpi/icon_june.png"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/mipmap-xxhdpi_icon_june.png.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/mipmap-xxhdpi/icon_june.png"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/drawable_facebook.png.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/drawable/facebook.png"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/mipmap-mdpi_icon_june_foreground.png.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/mipmap-mdpi/icon_june_foreground.png"
+    },
+    {
+        "merged": "com.example.afternoonpractice.app-merged_res-29:/drawable_pintrest.png.flat",
+        "source": "com.example.afternoonpractice.app-main-31:/drawable/pintrest.png"
+    }
+]
